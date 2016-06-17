@@ -13,6 +13,10 @@ Google Chrome accessibility extension to invert webpage colors, and reduce contr
 
 ## Timeline estimate:
 
-1. June 15th
+1. June 15
 
     Research Google Chrome extensions, and review developer documentation.
+
+2. June 17 -
+
+    Begin development of extension
