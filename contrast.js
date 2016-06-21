@@ -20,7 +20,7 @@ function invertElements(el) {
     var prop = ['backgroundColor', 'color'];
 
     // check if element is SVG (i.e. canvas)
-    if (el.nodeName.toLowerCase() == "svg" || el.nodeName.toLowerCase() == "rect") {
+    if (el.nodeName.toLowerCase() == "svg" || el.nodeName.toLowerCase() == "rect" || el.nodeName.toLowerCase() == "path") {
 
         // create RGB object
         var color = new RGBColor(style.fill);
