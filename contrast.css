@@ -1,0 +1,12 @@
+body {
+  background-color: #000 !important;
+}
+
+.btn {
+  background-image: none !important;
+  background: transparent !important;
+}
+
+li > a, p > a {
+  color: #8a9abf !important;
+}

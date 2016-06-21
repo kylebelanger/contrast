@@ -52,9 +52,6 @@ function invertElements(el) {
 document.addEventListener('DOMContentLoaded', function() {
     console.log("Loaded...");
 
-    // invert body
-    document.body.style.backgroundColor = "#000";
-
     // get all DOM elements in body
     var elements = document.body.getElementsByTagName("*");
 
