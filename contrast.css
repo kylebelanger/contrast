@@ -8,6 +8,15 @@ body {
   background: transparent !important;
 }
 
-li > a, p > a {
+/*a {
+  color: rgb(179, 200, 173) !important;
+}*/
+
+li > a, p > a, a {
   color: #8a9abf !important;
+}
+
+/* include Google News */
+p, span, b, i, em, td, th, del, .link .score, div[role='note'].hatnote, .thumbcaption, .esc-lead-snippet-wrapper {
+  color: rgb(218, 212, 212) !important;
 }
